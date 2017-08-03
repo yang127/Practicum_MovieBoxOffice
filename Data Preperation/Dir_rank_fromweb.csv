@@ -1,0 +1,872 @@
+Row,Person,Total Gross,# Movies, Average,#1 Picture,Gross
+1,Steven Spielberg,"$4,445.20 ",31,$143.40 ,E.T.,$435.10 
+2,Michael Bay,"$2,325.30 ",13,$178.90 ,Transformers 2,$402.10 
+3,Peter Jackson,"$2,134.70 ",12,$177.90 ,Return of the King,$377.80 
+4,Robert Zemeckis,"$2,091.90 ",18,$116.20 ,Forrest Gump,$330.30 
+5,James Cameron,"$1,974.30 ",9,$219.40 ,Avatar,$760.50 
+6,Christopher Nolan,"$1,925.70 ",11,$175.10 ,The Dark Knight,$534.90 
+7,Ron Howard,"$1,896.00 ",24,$79.00 ,The Grinch,$260.00 
+8,Tim Burton,"$1,840.20 ",18,$102.20 ,Alice in Wonderland,$334.20 
+9,Clint Eastwood,"$1,816.00 ",34,$53.40 ,American Sniper,$350.10 
+10,Chris Columbus,"$1,750.30 ",15,$116.70 ,Harry Potter / Sorcerer's Stone,$317.60 
+11,George Lucas,"$1,743.90 ",6,$290.70 ,The Phantom Menace,$474.50 
+12,J.J. Abrams,"$1,684.20 ",5,$336.80 ,Star Wars: The Force Awakens,$936.70 
+13,Ridley Scott,"$1,635.90 ",23,$71.10 ,The Martian,$228.40 
+14,David Yates,"$1,631.60 ",6,$271.90 ,Harry Potter / Deathly Hallows (P2),$381.00 
+15,Gore Verbinski,"$1,529.40 ",10,$152.90 ,Dead Man's Chest,$423.30 
+16,Sam Raimi,"$1,526.70 ",14,$109.00 ,Spider-Man,$403.70 
+17,Francis Lawrence,"$1,434.60 ",6,$239.10 ,Catching Fire,$424.70 
+18,Jon Favreau,"$1,334.50 ",8,$166.80 ,The Jungle Book,$364.00 
+19,Lee Unkrich,"$1,331.60 ",4,$332.90 ,Toy Story 3,$415.00 
+20,Roland Emmerich,"$1,292.20 ",12,$107.70 ,Independence Day,$306.20 
+21,M. Night Shyamalan,"$1,233.40 ",11,$112.10 ,Sixth Sense,$293.50 
+22,Bill Condon,"$1,232.60 ",9,$137.00 ,Beauty and the Beast,$504.00 
+23,Chris Renaud,"$1,202.00 ",4,$300.50 ,The Secret Life of Pets,$368.40 
+24,Pierre Coffin,"$1,188.60 ",4,$297.10 ,Despicable Me 2,$368.10 
+25,Andrew Stanton,"$1,164.00 ",4,$291.00 ,Finding Dory,$486.30 
+26,Andrew Adamson,"$1,154.70 ",6,$192.50 ,Shrek 2,$441.20 
+27,Bryan Singer,"$1,142.20 ",9,$126.90 ,X-Men: Days of Future Past,$233.90 
+28,Richard Donner,"$1,139.10 ",16,$71.20 ,Lethal Weapon 2,$147.30 
+29,Brett Ratner,"$1,130.80 ",10,$113.10 ,X-Men: The Last Stand,$234.40 
+30,Shawn Levy,"$1,130.30 ",11,$102.80 ,Night at the Museum,$250.90 
+31,Joss Whedon,"$1,112.20 ",4,$278.10 ,The Avengers,$623.40 
+32,Ivan Reitman,"$1,099.60 ",15,$73.30 ,Ghostbusters,$242.20 
+33,Dennis Dugan,"$1,096.70 ",14,$78.30 ,Big Daddy,$163.50 
+34,Jay Roach,"$1,095.40 ",9,$121.70 ,Meet the Fockers,$279.30 
+35,Tony Scott,"$1,092.60 ",16,$68.30 ,Top Gun,$179.80 
+36,Zack Snyder,"$1,090.60 ",7,$155.80 ,Batman v Superman,$330.40 
+37,Barry Sonnenfeld,"$1,078.30 ",11,$98.00 ,Men in Black,$250.70 
+38,Steven Soderbergh,"$1,039.30 ",26,$40.00 ,Ocean's Eleven,$183.40 
+39,Todd Phillips,"$1,038.10 ",10,$103.80 ,The Hangover,$277.30 
+40,John Lasseter,"$1,036.00 ",5,$207.20 ,Toy Story 2,$245.90 
+41,Martin Scorsese,"$1,027.90 ",24,$42.80 ,The Departed,$132.40 
+42,Garry Marshall,"$1,023.40 ",18,$56.90 ,Pretty Woman,$178.40 
+43,Carlos Saldanha,$971.70 ,7,$138.80 ,Ice Age 3,$196.60 
+44,Joel Schumacher,$963.00 ,22,$43.80 ,Batman Forever,$184.00 
+45,Conrad Vernon,$953.70 ,4,$238.40 ,Shrek 2,$441.20 
+46,Pete Docter,$939.40 ,3,$313.10 ,Inside Out,$356.50 
+47,Tom McGrath,$913.10 ,5,$182.60 ,Madagascar 3,$216.40 
+48,Jon Turteltaub,$907.40 ,10,$90.70 ,National Treasure: Book of Secrets,$220.00 
+49,Tom Shadyac,$892.70 ,8,$111.60 ,Bruce Almighty,$242.80 
+50,Rob Minkoff,$867.20 ,7,$123.90 ,Lion King,$422.80 
+51,David Fincher,$865.20 ,10,$86.50 ,Gone Girl,$167.80 
+52,Justin Lin,$845.90 ,8,$105.70 ,Fast & Furious 6,$238.70 
+53,Sam Mendes,$834.00 ,7,$119.10 ,Skyfall,$304.40 
+54,Mike Mitchell,$829.70 ,7,$118.50 ,Shrek Forever After,$238.70 
+55,Tyler Perry,$816.70 ,16,$51.00 ,Madea Goes to Jail,$90.50 
+56,James Wan,$812.80 ,8,$101.60 ,Furious 7,$353.00 
+57,Barry Levinson,$812.70 ,22,$36.90 ,Rain Man,$172.80 
+58,Joe Johnston,$811.20 ,9,$90.10 ,Jurassic Park III,$181.20 
+59,Peter Segal,$804.20 ,9,$89.40 ,The Longest Yard,$158.10 
+60,Raja Gosnell,$803.00 ,9,$89.20 ,Scooby-Doo,$153.30 
+61,Brad Bird,$793.90 ,5,$158.80 ,The Incredibles,$261.40 
+62,The Farrelly Bros.,$792.00 ,12,$66.00 ,Something About Mary,$176.50 
+63,James Mangold,$782.40 ,10,$78.20 ,Logan,$226.30 
+64,Tim Story,$781.90 ,8,$97.70 ,Fantastic Four (2005),$154.70 
+65,Wolfgang Petersen,$775.10 ,10,$77.50 ,Perfect Storm,$182.60 
+66,Sydney Pollack,$774.50 ,13,$59.60 ,Tootsie,$177.20 
+67,Oliver Stone,$766.00 ,19,$40.30 ,Platoon,$138.50 
+68,Eric Darnell,$764.10 ,5,$152.80 ,Madagascar 3,$216.40 
+69,F. Gary Gray,$757.70 ,9,$84.20 ,Fate of the Furious,$225.80 
+70,Anthony Russo,$743.80 ,4,$186.00 ,Captain America 3,$408.10 
+71,Joe Russo,$743.80 ,4,$186.00 ,Captain America 3,$408.10 
+72,Paul Greengrass,$740.60 ,8,$92.60 ,The Bourne Ultimatum,$227.50 
+73,Gareth Edwards,$733.10 ,3,$244.40 ,Rogue One,$532.20 
+74,James Gunn,$729.20 ,4,$182.30 ,Guardians of the Galaxy 2,$387.90 
+75,Mike Nichols,$722.50 ,16,$45.20 ,Birdcage,$124.10 
+76,Lilly & Lana Wachowski,$714.60 ,7,$102.10 ,The Matrix Reloaded,$281.60 
+77,Phil Lord,$712.80 ,4,$178.20 ,The LEGO Movie,$257.80 
+78,Chris Miller (II),$712.80 ,4,$178.20 ,The LEGO Movie,$257.80 
+79,Robert Rodriguez,$706.40 ,16,$44.10 ,Spy Kids,$112.70 
+80,Stephen Sommers,$706.30 ,8,$88.30 ,Mummy Returns,$202.00 
+81,Adam Shankman,$697.50 ,8,$87.20 ,Bringing Down the House,$132.70 
+82,Martin Campbell,$679.80 ,11,$61.80 ,Casino Royale,$167.40 
+83,Peter Berg,$678.20 ,9,$75.40 ,Hancock,$227.90 
+84,Rob Reiner,$676.90 ,18,$37.60 ,A Few Good Men,$141.30 
+85,John Landis,$672.00 ,15,$44.80 ,National Lampoon's Animal House,$141.60 
+86,Colin Trevorrow,$660.60 ,3,$220.20 ,Jurassic World,$652.30 
+87,Kelly Asbury,$659.50 ,4,$164.90 ,Shrek 2,$441.20 
+88,Adam McKay,$650.80 ,6,$108.50 ,Talladega Nights,$148.20 
+89,Quentin Tarantino,$649.20 ,9,$72.10 ,Django Unchained,$162.80 
+90,Rob Cohen,$638.40 ,12,$53.20 ,Fast and the Furious,$144.50 
+91,Brian De Palma,$636.10 ,18,$35.30 ,Mission: Impossible,$181.00 
+92,Chris Buck,$630.70 ,3,$210.20 ,Frozen,$400.70 
+93,Antoine Fuqua,$627.50 ,12,$52.30 ,The Equalizer,$101.50 
+94,Sylvester Stallone,$626.30 ,8,$78.30 ,Rocky IV,$127.90 
+95,Nancy Meyers,$625.60 ,6,$104.30 ,What Women Want,$182.80 
+96,Rob Marshall,$616.90 ,5,$123.40 ,Pirates of the Caribbean 4,$241.10 
+97,John McTiernan,$610.40 ,11,$55.50 ,Hunt for Red October,$122.00 
+98,Alfonso Cuaron,$609.50 ,7,$87.10 ,Gravity,$274.10 
+99,George Miller,$603.50 ,10,$60.40 ,Happy Feet,$198.00 
+100,Andy Tennant,$598.00 ,9,$66.40 ,Hitch,$179.50 
+101,Woody Allen,$590.00 ,43,$13.70 ,Midnight in Paris,$56.80 
+102,Gary Ross,$589.70 ,4,$147.40 ,The Hunger Games,$408.00 
+103,Mel Gibson,$589.20 ,5,$117.80 ,Passion of the Christ,$370.80 
+104,Paul Feig,$584.50 ,5,$116.90 ,Bridesmaids,$169.10 
+105,Mike Newell,$581.80 ,14,$41.60 ,Harry Potter / Goblet of Fire,$290.00 
+106,Wes Craven,$579.50 ,16,$36.20 ,Scream,$103.00 
+107,Frank Coraci,$575.00 ,7,$82.10 ,Waterboy,$161.50 
+108,Michael Apted,$574.90 ,18,$31.90 ,World Is Not Enough,$126.90 
+109,Frank Oz,$574.20 ,12,$47.80 ,The Score,$71.10 
+110,Joel Coen,$573.70 ,18,$31.90 ,True Grit,$171.20 
+111,Andrew Davis,$571.80 ,11,$52.00 ,The Fugitive,$183.90 
+112,David Zucker,$571.50 ,10,$57.20 ,Scary Movie 3,$110.00 
+113,Jan DeBont,$568.60 ,5,$113.70 ,Twister,$241.70 
+114,Phillip Noyce,$567.20 ,13,$43.60 ,Clear and Present Danger,$122.20 
+115,Betty Thomas,$563.30 ,7,$80.50 ,Alvin and the Chipmunks 2,$219.60 
+116,Chris Sanders,$550.50 ,3,$183.50 ,How to Train Your Dragon,$217.60 
+117,Ang Lee,$548.30 ,13,$42.20 ,Hulk,$132.20 
+118,Dean DeBlois,$540.40 ,3,$180.10 ,How to Train Your Dragon,$217.60 
+119,Kenneth Branagh,$535.40 ,12,$44.60 ,Cinderella,$201.20 
+120,Rich Moore,$530.70 ,2,$265.30 ,Zootopia,$341.30 
+121,Lasse Hallstrom,$530.60 ,15,$35.40 ,Dear John,$80.00 
+122,Renny Harlin,$526.70 ,16,$32.90 ,Die Hard 2,$117.50 
+123,John Woo,$526.40 ,7,$75.20 ,Mission: Impossible II,$215.40 
+124,Edward Zwick,$524.30 ,12,$43.70 ,The Last Samurai,$111.10 
+125,Michael Mann,$524.10 ,11,$47.60 ,Collateral,$101.00 
+126,David Silverman,$523.90 ,3,$174.60 ,"Monsters, Inc.",$289.90 
+127,Marc Webb,$522.00 ,4,$130.50 ,The Amazing Spider-Man,$262.00 
+128,David O. Russell,$521.80 ,8,$65.20 ,American Hustle,$150.10 
+129,Doug Liman,$521.20 ,8,$65.20 ,Mr. & Mrs. Smith,$186.30 
+130,Guy Ritchie,$521.00 ,9,$57.90 ,Sherlock Holmes,$209.00 
+131,Nora Ephron,$515.00 ,8,$64.40 ,Sleepless in Seattle,$126.70 
+132,Marc Forster,$514.30 ,8,$64.30 ,World War Z,$202.40 
+133,Steve Carr,$507.40 ,7,$72.50 ,Paul Blart: Mall Cop,$146.30 
+134,Simon West,$497.30 ,7,$71.00 ,Tomb Raider,$131.20 
+135,William Friedkin,$495.30 ,15,$33.00 ,The Exorcist,$232.90 
+136,David Ayer,$492.20 ,6,$82.00 ,Suicide Squad,$325.10 
+137,Louis Leterrier,$490.30 ,6,$81.70 ,Clash of the Titans,$163.20 
+138,Judd Apatow,$487.80 ,5,$97.60 ,Knocked Up,$148.80 
+139,Jerry Zucker,$487.40 ,6,$81.20 ,Ghost,$217.60 
+140,Peyton Reed,$485.30 ,5,$97.10 ,Ant-Man,$180.20 
+141,Rob Letterman,$482.10 ,4,$120.50 ,Monsters Vs. Aliens,$198.40 
+142,McG,$480.50 ,6,$80.10 ,Terminator Salvation,$125.30 
+143,Mark S. Waters,$475.90 ,10,$47.60 ,Freaky Friday,$110.20 
+144,Chris Weitz,$474.10 ,5,$94.80 ,New Moon,$296.60 
+145,Robert Schwentke,$473.50 ,6,$78.90 ,Insurgent,$130.20 
+146,Chris Miller,$472.00 ,2,$236.00 ,Shrek the Third,$322.70 
+147,Scott Derrickson,$465.70 ,5,$93.10 ,Doctor Strange,$232.60 
+148,John Singleton,$465.20 ,9,$51.70 ,2 Fast 2 Furious,$127.20 
+149,Peter Weir,$454.00 ,10,$45.40 ,Truman Show,$125.60 
+150,Roger Donaldson,$452.80 ,15,$30.20 ,Cocktail,$78.20 
+151,Cameron Crowe,$450.40 ,9,$50.00 ,Jerry Maguire,$154.00 
+152,John Lee Hancock,$450.10 ,5,$90.00 ,The Blind Side,$256.00 
+153,Tim Johnson,$449.70 ,4,$112.40 ,Home,$177.40 
+154,Shane Black,$449.50 ,3,$149.80 ,Iron Man 3,$409.00 
+155,Paul Weitz,$449.00 ,10,$44.90 ,Little Fockers,$148.40 
+156,Paul Verhoeven,$445.70 ,9,$49.50 ,Total Recall,$119.40 
+157,Chris Wedge,$445.50 ,4,$111.40 ,Ice Age,$176.40 
+158,Paul W.S. Anderson,$441.30 ,12,$36.80 ,Alien Vs. Predator,$80.30 
+159,Harold Ramis,$435.70 ,11,$39.60 ,Analyze This,$106.90 
+160,Nick Stoller,$431.30 ,6,$71.90 ,Neighbors,$150.20 
+161,Seth Gordon,$430.90 ,5,$86.20 ,Identity Thief,$134.50 
+162,Patty Jenkins,$430.70 ,2,$215.40 ,Wonder Woman,$396.20 
+163,Jonathan Liebesman,$430.50 ,5,$86.10 ,Ninja Turtles,$191.20 
+164,Matt Reeves,$428.20 ,5,$85.60 ,Dawn of the Planet of the Apes,$208.50 
+165,David Dobkin,$427.70 ,6,$71.30 ,Wedding Crashers,$209.30 
+166,Taylor Hackford,$426.80 ,14,$30.50 ,An Officer and a Gentleman,$129.80 
+167,Robert Luketic,$421.00 ,7,$60.10 ,Legally Blonde,$96.50 
+168,Guillermo del Toro,$415.30 ,9,$46.10 ,Pacific Rim,$101.80 
+169,Martin Brest,$413.80 ,6,$69.00 ,Beverly Hills Cop,$234.80 
+170,Alan J. Pakula,$413.80 ,12,$34.50 ,Pelican Brief,$100.80 
+171,Irvin Kershner,$411.60 ,4,$102.90 ,The Empire Strikes Back,$290.50 
+172,Penny Marshall,$407.00 ,7,$58.10 ,Big,$115.00 
+173,Curtis Hanson,$406.80 ,11,$37.00 ,8 Mile,$116.80 
+174,Ethan Coen,$402.50 ,8,$50.30 ,True Grit,$171.20 
+175,Jennifer Lee,$400.70 ,1,$400.70 ,Frozen,$400.70 
+176,Keenen Ivory Wayans,$400.20 ,6,$66.70 ,Scary Movie,$157.00 
+177,Walter Hill,$395.00 ,17,$23.20 ,Another 48 HRS.,$80.80 
+178,Mel Brooks,$393.60 ,10,$39.40 ,Blazing Saddles,$119.60 
+179,Rawson Marshall Thurber,$392.20 ,4,$98.10 ,We're the Millers,$150.40 
+180,Jonathan Demme,$391.90 ,20,$19.60 ,Silence of the Lambs,$130.70 
+181,James L. Brooks,$391.50 ,6,$65.30 ,As Good as It Gets,$148.50 
+182,Tim Hill,$387.80 ,5,$77.60 ,Alvin and the Chipmunks,$217.30 
+183,Amy Heckerling,$384.00 ,9,$42.70 ,Look Who's Talking,$140.10 
+184,Spike Lee,$379.80 ,21,$18.10 ,Inside Man,$88.50 
+185,Anne Fletcher,$377.80 ,5,$75.60 ,The Proposal,$164.00 
+186,David Frankel,$375.00 ,7,$53.60 ,Marley and Me,$143.20 
+187,Malcolm D. Lee,$371.70 ,9,$41.30 ,The Best Man Holiday,$70.50 
+188,Jon Chu,$369.40 ,7,$52.80 ,G.I. Joe: Retaliation,$122.50 
+189,Kevin Reynolds,$365.90 ,9,$40.70 ,Robin Hood: Prince of Thieves,$165.50 
+190,Andy Fickman,$365.60 ,6,$60.90 ,The Game Plan,$90.60 
+191,Matthew Vaughn,$363.70 ,5,$72.70 ,X-Men: First Class,$146.40 
+192,Jeff Tremaine,$356.30 ,4,$89.10 ,Jackass 3-D,$117.20 
+193,Brad Silberling,$354.00 ,6,$59.00 ,Lemony Snicket,$118.60 
+194,Kevin Costner,$348.40 ,4,$87.10 ,Dances with Wolves,$184.20 
+195,Jim Abrahams,$348.00 ,8,$43.50 ,Airplane!,$83.50 
+196,Seth MacFarlane,$343.40 ,3,$114.50 ,Ted,$218.80 
+197,Peter Hyams,$341.80 ,15,$22.80 ,End of Days,$66.90 
+198,David Slade,$341.10 ,3,$113.70 ,The Twilight Saga: Eclipse,$300.50 
+199,D.J. Caruso,$340.50 ,8,$42.60 ,Eagle Eye,$101.40 
+200,Brenda Chapman,$338.70 ,2,$169.30 ,Brave,$237.30 
+201,Chris Williams,$336.60 ,2,$168.30 ,Big Hero 6,$222.50 
+202,John Hughes,$329.50 ,8,$41.20 ,Ferris Bueller's Day Off,$70.10 
+203,Brian Robbins,$329.40 ,10,$32.90 ,Norbit,$95.70 
+204,Ben Stiller,$324.00 ,6,$54.00 ,Tropic Thunder,$110.50 
+205,Garth Jennings,$323.20 ,3,$107.70 ,Sing,$270.30 
+206,Lee Tamahori,$322.50 ,8,$40.30 ,Die Another Day,$160.90 
+207,Alex Proyas,$321.00 ,6,$53.50 ,"I, Robot",$144.80 
+208,Luc Besson,$318.10 ,12,$26.50 ,Lucy,$126.70 
+209,Jaume Collet-Serra,$311.30 ,7,$44.50 ,Non-Stop,$92.20 
+210,Baz Luhrmann,$309.90 ,5,$62.00 ,The Great Gatsby,$144.80 
+211,Jennifer Yuh Nelson,$308.80 ,2,$154.40 ,Kung Fu Panda 2,$165.20 
+212,Nick Cassavetes,$308.70 ,7,$44.10 ,The Other Woman,$83.90 
+213,Len Wiseman,$307.70 ,4,$76.90 ,Live Free or Die Hard,$134.50 
+214,Brad Peyton,$307.40 ,4,$76.90 ,San Andreas,$155.20 
+215,Danny Boyle,$300.20 ,12,$25.00 ,Slumdog Millionaire,$141.30 
+216,Tom Hooper,$299.20 ,4,$74.80 ,Les Miserables,$148.80 
+217,Harald Zwart,$297.90 ,5,$59.60 ,The Karate Kid,$176.60 
+218,Lawrence Kasdan,$297.70 ,11,$27.10 ,The Big Chill,$56.40 
+219,Olivier Megaton,$297.50 ,4,$74.40 ,Taken 2,$139.90 
+220,Alan Taylor,$296.10 ,2,$148.10 ,Thor: The Dark World,$206.40 
+221,Bob Peterson,$293.00 ,1,$293.00 ,Up,$293.00 
+222,Michael Lembeck,$291.80 ,4,$73.00 ,The Santa Clause 2,$139.20 
+223,John Carpenter,$288.50 ,15,$19.20 ,Halloween,$47.00 
+224,Gus Van Sant,$287.90 ,16,$18.00 ,Good Will Hunting,$138.40 
+225,Alejandro González Iñárritu,$287.10 ,6,$47.80 ,The Revenant,$183.60 
+226,Randall Wallace,$286.20 ,4,$71.60 ,Heaven is for Real,$91.40 
+227,Catherine Hardwicke,$285.10 ,7,$40.70 ,Twilight,$192.80 
+228,Joseph Ruben,$282.70 ,9,$31.40 ,Sleeping with the Enemy,$101.60 
+229,Jason Reitman,$282.50 ,6,$47.10 ,Juno,$143.50 
+230,Christopher McQuarrie,$281.20 ,3,$93.70 ,M:I - Rogue Nation,$195.00 
+231,Robert Altman,$277.70 ,20,$13.90 ,M.A.S.H.,$81.60 
+232,Tate Taylor,$275.80 ,4,$69.00 ,The Help,$169.70 
+233,Neil Jordan,$275.70 ,16,$17.20 ,Interview with the Vampire,$105.30 
+234,Robert Redford,$274.80 ,9,$30.50 ,Horse Whisperer,$75.40 
+235,Steven Brill,$274.50 ,6,$45.80 ,Mr. Deeds,$126.30 
+236,Neil Burger,$270.40 ,5,$54.10 ,Divergent,$150.90 
+237,Mark Steven Johnson,$269.30 ,5,$53.90 ,Ghost Rider,$115.80 
+238,Dan Scanlon,$268.50 ,1,$268.50 ,Monsters University,$268.50 
+239,Larry Charles,$261.80 ,5,$52.40 ,Borat,$128.50 
+240,Anthony Minghella,$261.20 ,6,$43.50 ,Cold Mountain,$95.60 
+241,Joseph Kosinski,$261.20 ,2,$130.60 ,Tron Legacy,$172.10 
+242,Ben Affleck,$258.90 ,4,$64.70 ,Argo,$136.00 
+243,John Madden,$257.50 ,11,$23.40 ,Shakespeare in Love,$100.30 
+244,Stephen Frears,$256.00 ,22,$11.60 ,The Queen,$56.40 
+245,Warren Beatty,$255.90 ,5,$51.20 ,Dick Tracy,$103.70 
+246,Gary Winick,$255.20 ,7,$36.50 ,Charlotte's Web,$83.00 
+247,Frank Marshall,$252.60 ,4,$63.10 ,Eight Below,$81.60 
+248,Alexander Payne,$251.90 ,6,$42.00 ,The Descendants,$82.60 
+249,Darren Aronofsky,$251.40 ,6,$41.90 ,Black Swan,$107.00 
+250,Sean Anders,$250.20 ,5,$50.00 ,Daddy's Home,$150.40 
+251,Charles Shyer,$249.70 ,7,$35.70 ,Father of the Bride,$89.30 
+252,Don Hall,$249.20 ,2,$124.60 ,Big Hero 6,$222.50 
+253,Michael Patrick King,$248.00 ,2,$124.00 ,Sex and the City,$152.60 
+254,Gabriele Muccino,$247.90 ,5,$49.60 ,The Pursuit of Happyness,$163.60 
+255,Stephen Hopkins,$247.90 ,9,$27.50 ,Lost in Space,$69.10 
+256,Dean Parisot,$245.60 ,4,$61.40 ,Fun with Dick and Jane,$110.30 
+257,Ken Kwapis,$244.00 ,9,$27.10 ,He's Just Not That Into You,$94.00 
+258,Ron Underwood,$243.20 ,7,$34.70 ,City Slickers,$124.00 
+259,Brian Helgeland,$242.60 ,5,$48.50 ,42,$95.00 
+260,John Moore,$242.50 ,5,$48.50 ,A Good Day to Die Hard,$67.30 
+261,Steve Oedekerk,$241.50 ,4,$60.40 ,When Nature Calls,$108.40 
+262,Robert Stromberg,$241.40 ,1,$241.40 ,Maleficent,$241.40 
+263,Stanley Kubrick,$241.20 ,7,$34.50 ,2001: A Space Odyssey,$57.00 
+264,Neill Blomkamp,$240.30 ,3,$80.10 ,District 9,$115.60 
+265,Mark Andrews,$237.30 ,1,$237.30 ,Brave,$237.30 
+266,P.J. Hogan,$235.00 ,4,$58.70 ,My Best Friend's Wedding,$127.10 
+267,James Foley,$232.60 ,12,$19.40 ,Fifty Shades Darker,$114.40 
+268,Robert Benton,$231.80 ,9,$25.80 ,Kramer Vs. Kramer,$106.30 
+269,Wes Anderson,$231.80 ,8,$29.00 ,The Grand Budapest Hotel,$59.30 
+270,David R. Ellis,$231.10 ,6,$38.50 ,The Final Destination,$66.50 
+271,Don Bluth,$230.90 ,9,$25.70 ,Anastasia,$58.40 
+272,Darren Lynn Bousman,$230.80 ,5,$46.20 ,Saw II,$87.00 
+273,Thomas Carter,$226.10 ,5,$45.20 ,Save the Last Dance,$91.10 
+274,Tarsem,$224.30 ,5,$44.90 ,Immortals,$83.50 
+275,Simon Wells,$222.50 ,6,$37.10 ,Prince of Egypt,$101.40 
+276,Boaz Yakin,$221.90 ,7,$31.70 ,Remember the Titans,$115.70 
+277,Jimmy Hayward,$220.80 ,3,$73.60 ,Horton Hears a Who!,$154.50 
+278,Danny DeVito,$220.60 ,6,$36.80 ,The War of the Roses,$86.90 
+279,Frank Darabont,$218.50 ,4,$54.60 ,Green Mile,$136.80 
+280,Tom Dey,$217.40 ,4,$54.30 ,Failure to Launch,$88.70 
+281,Will Gluck,$217.30 ,4,$54.30 ,Annie (2014),$85.90 
+282,Kirk De Micco,$217.30 ,2,$108.60 ,The Croods,$187.20 
+283,Terry Gilliam,$216.00 ,10,$21.60 ,12 Monkeys,$57.10 
+284,Mimi Leder,$215.20 ,3,$71.70 ,Deep Impact,$140.50 
+285,John Whitesell,$213.50 ,6,$35.60 ,Big Momma's House 2,$70.20 
+286,Theodore Melfi,$213.50 ,2,$106.80 ,Hidden Figures,$169.40 
+287,Joe Roth,$213.20 ,6,$35.50 ,America's Sweethearts,$93.60 
+288,Gregory Hoblit,$213.10 ,6,$35.50 ,Primal Fear,$56.10 
+289,Denis Villeneuve,$211.80 ,6,$35.30 ,Arrival,$100.50 
+290,Kathryn Bigelow,$211.20 ,9,$23.50 ,Zero Dark Thirty,$95.70 
+291,Peter Chelsom,$211.00 ,9,$23.40 ,Hannah Montana The Movie,$79.60 
+292,Rupert Wyatt,$210.50 ,3,$70.20 ,Rise of the Planet of the Apes,$176.80 
+293,Michael Caton-Jones,$210.20 ,9,$23.40 ,The Jackal,$54.90 
+294,Simon J. Smith,$210.00 ,2,$105.00 ,Bee Movie,$126.60 
+295,Joe Wright,$209.20 ,6,$34.90 ,Atonement,$50.90 
+296,Dominic Sena,$208.90 ,5,$41.80 ,Gone in 60 Seconds,$101.60 
+297,Kevin Smith,$206.70 ,11,$18.80 ,Cop Out,$44.90 
+298,David Bowers,$206.60 ,5,$41.30 ,Flushed Away,$64.70 
+299,Thor Freudenthal,$205.60 ,3,$68.50 ,Hotel for Dogs,$73.00 
+300,Kenny Ortega,$205.00 ,4,$51.20 ,High School Musical 3,$90.60 
+301,Richard Linklater,$203.00 ,17,$11.90 ,School of Rock,$81.30 
+302,Tony Gilroy,$202.80 ,3,$67.60 ,The Bourne Legacy,$113.20 
+303,Josh Gordon,$201.10 ,3,$67.00 ,Blades of Glory,$118.60 
+304,Will Speck,$201.10 ,3,$67.00 ,Blades of Glory,$118.60 
+305,Jake Kasdan,$200.60 ,6,$33.40 ,Bad Teacher,$100.30 
+306,Timur Bekmambetov,$200.40 ,5,$40.10 ,Wanted,$134.50 
+307,Henry Joost,$199.80 ,4,$49.90 ,Paranormal Activity 3,$104.00 
+308,Ariel Schulman,$199.80 ,4,$49.90 ,Paranormal Activity 3,$104.00 
+309,Allen Hughes,$198.50 ,6,$33.10 ,The Book of Eli,$94.80 
+310,George Clooney,$197.90 ,5,$39.60 ,The Monuments Men,$78.00 
+311,Rupert Sanders,$195.90 ,2,$97.90 ,Snow White and the Huntsman,$155.30 
+312,Luke Greenfield,$193.80 ,4,$48.40 ,Let's Be Cops,$82.40 
+313,Morten Tyldum,$192.50 ,4,$48.10 ,Passengers,$100.00 
+314,Jonathan Levine,$192.40 ,5,$38.50 ,Warm Bodies,$66.40 
+315,Greg Mottola,$191.90 ,5,$38.40 ,Superbad,$121.50 
+316,Brad Lewis,$191.50 ,1,$191.50 ,Cars 2,$191.50 
+317,Michael Moore,$191.20 ,9,$21.20 ,Fahrenheit 9/11,$119.20 
+318,"George Tillman, Jr.",$190.50 ,6,$31.80 ,Men of Honor,$48.80 
+319,Jean-Jacques Annaud,$188.60 ,9,$21.00 ,Enemy at the Gates,$51.40 
+320,Edgar Wright,$188.10 ,5,$37.60 ,Baby Driver,$93.30 
+321,Baltasar Kormakur,$185.60 ,4,$46.40 ,2 Guns,$75.60 
+322,Henry Selick,$184.70 ,4,$46.20 ,Coraline,$75.30 
+323,Elizabeth Banks,$184.30 ,1,$184.30 ,Pitch Perfect 2,$184.30 
+324,Wes Ball,$184.10 ,2,$92.10 ,The Maze Runner,$102.40 
+325,Gavin O'Connor,$182.90 ,6,$30.50 ,The Accountant,$86.30 
+326,Kirk Jones,$182.00 ,5,$36.40 ,My Big Fat Greek Wedding 2,$59.70 
+327,Pierre Morel,$180.90 ,4,$45.20 ,Taken,$145.00 
+328,Andrzej Bartkowiak,$179.40 ,5,$35.90 ,Romeo Must Die,$56.00 
+329,Scott Hicks,$178.90 ,7,$25.60 ,The Lucky One,$60.50 
+330,Albert Hughes,$178.80 ,5,$35.80 ,The Book of Eli,$94.80 
+331,Aaron Seltzer,$177.40 ,5,$35.50 ,Date Movie,$48.50 
+332,Marcus Nispel,$177.10 ,4,$44.30 ,Texas Chainsaw Massacre,$80.60 
+333,Joe Carnahan,$175.10 ,4,$43.80 ,The A-Team,$77.20 
+334,Joachim Ronning,$172.60 ,2,$86.30 ,Pirates of the Caribbean 5,$171.10 
+335,Espen Sandberg,$172.60 ,2,$86.30 ,Pirates of the Caribbean 5,$171.10 
+336,Peter Hewitt,$171.90 ,6,$28.70 ,Garfield,$75.40 
+337,Sam Fell,$171.50 ,3,$57.20 ,Flushed Away,$64.70 
+338,Jordan Vogt-Roberts,$169.40 ,2,$84.70 ,Kong: Skull Island,$168.10 
+339,David Twohy,$169.20 ,6,$28.20 ,The Chronicles of Riddick,$57.80 
+340,Jay Russell,$168.80 ,5,$33.80 ,Ladder 49,$74.50 
+341,Mikael Hafstrom,$166.30 ,6,$27.70 ,1408,$72.00 
+342,Lee Daniels,$165.30 ,4,$41.30 ,The Butler,$116.60 
+343,Damien Chazelle,$164.20 ,3,$54.70 ,La La Land,$151.10 
+344,Glenn Ficarra,$163.30 ,4,$40.80 ,"Crazy, Stupid, Love.",$84.40 
+345,John Requa,$163.30 ,4,$40.80 ,"Crazy, Stupid, Love.",$84.40 
+346,Paul Tibbitt,$163.00 ,1,$163.00 ,SpongeBob,$163.00 
+347,Michel Gondry,$162.40 ,12,$13.50 ,The Green Hornet,$98.80 
+348,James Wong,$160.70 ,4,$40.20 ,Final Destination 3,$54.10 
+349,Roger Kumble,$158.90 ,5,$31.80 ,College Road Trip,$45.60 
+350,Ruben Fleischer,$158.60 ,3,$52.90 ,Zombieland,$75.60 
+351,Daniel Espinosa,$158.00 ,4,$39.50 ,Safe House,$126.40 
+352,Barry Cook,$156.70 ,2,$78.30 ,Mulan,$120.60 
+353,David Soren,$155.60 ,2,$77.80 ,Turbo,$83.00 
+354,Rob Bowman,$154.20 ,4,$38.60 ,X-Files,$83.90 
+355,Clark Johnson,$153.20 ,2,$76.60 ,S.W.A.T.,$116.90 
+356,Jason Moore,$152.00 ,2,$76.00 ,Sisters,$87.00 
+357,Ronny Yu,$151.40 ,5,$30.30 ,Freddy Vs. Jason,$82.60 
+358,Michael Hoffman,$151.10 ,10,$15.10 ,One Fine Day,$46.20 
+359,Neil LaBute,$149.20 ,9,$16.60 ,Death at a Funeral (2010),$42.70 
+360,David Gordon Green,$148.40 ,11,$13.50 ,Pineapple Express,$87.30 
+361,Spike Jonze,$148.20 ,4,$37.00 ,Where the Wild Things Are,$77.20 
+362,Michael Lehman,$148.10 ,9,$16.50 ,Because I Said So,$42.70 
+363,Steve Pink,$147.60 ,4,$36.90 ,Hot Tub Time Machine,$50.30 
+364,Roman Polanski,$147.20 ,13,$11.30 ,The Pianist,$32.60 
+365,Alex Kendrick,$145.90 ,4,$36.50 ,War Room,$67.80 
+366,Carl Franklin,$145.80 ,6,$24.30 ,High Crimes,$41.50 
+367,Jim Sheridan,$143.70 ,8,$18.00 ,Get Rich or Die Tryin',$31.00 
+368,Fede Alvarez,$143.50 ,2,$71.70 ,Don't Breathe,$89.20 
+369,Iain Softley,$139.20 ,6,$23.20 ,K-PAX,$50.30 
+370,Jon Lucas,$138.90 ,2,$69.50 ,Bad Moms,$113.30 
+371,Scott Moore,$138.90 ,2,$69.50 ,Bad Moms,$113.30 
+372,Peter Lord,$137.90 ,2,$68.90 ,Chicken Run,$106.80 
+373,Barbet Schroeder,$136.70 ,9,$15.20 ,Single White Female,$48.00 
+374,James DeMonaco,$136.40 ,2,$68.20 ,The Purge: Anarchy,$72.00 
+375,Forest Whitaker,$136.20 ,3,$45.40 ,Waiting to Exhale,$67.10 
+376,Martha Coolidge,$135.70 ,11,$12.30 ,Out to Sea,$29.00 
+377,Chad Stahelski,$135.10 ,2,$67.50 ,John Wick 2,$92.00 
+378,John R. Leonetti,$133.50 ,3,$44.50 ,Annabelle,$84.30 
+379,Paul Thomas Anderson,$131.60 ,7,$18.80 ,There Will Be Blood,$40.20 
+380,Zhang Yimou,$130.60 ,16,$8.20 ,Hero,$53.70 
+381,Stephen Daldry,$129.70 ,5,$25.90 ,The Hours,$41.70 
+382,Gil Kenan,$129.00 ,3,$43.00 ,Monster House,$73.70 
+383,Jason Friedberg,$128.80 ,4,$32.20 ,Epic Movie,$39.70 
+384,Ryan Coogler,$125.90 ,2,$62.90 ,Creed,$109.80 
+385,Michael Sucsy,$125.00 ,1,$125.00 ,The Vow,$125.00 
+386,Josh Boone,$125.00 ,2,$62.50 ,The Fault in our Stars,$124.90 
+387,James McTeigue,$124.60 ,3,$41.50 ,V for Vendetta,$70.50 
+388,Bill Duke,$124.60 ,7,$17.80 ,Sister Act 2: Back in the Habit,$57.30 
+389,Rob Zombie,$123.30 ,6,$20.50 ,Halloween (2007),$58.30 
+390,Jay Chandrasekhar,$123.00 ,5,$24.60 ,The Dukes of Hazzard,$80.30 
+391,Richard LaGravenese,$122.80 ,6,$20.50 ,P.S. I Love You,$53.70 
+392,John Schultz,$122.40 ,6,$20.40 ,Like Mike,$51.40 
+393,Dave Green,$121.00 ,2,$60.50 ,Teenage Mutant Ninja Turtles 2,$82.10 
+394,Josh Trank,$120.70 ,2,$60.30 ,Chronicle,$64.60 
+395,Irwin Winkler,$118.00 ,7,$16.90 ,The Net,$50.70 
+396,Angelina Jolie,$116.50 ,3,$38.80 ,Unbroken,$115.60 
+397,Bennett Miller,$116.50 ,3,$38.80 ,Moneyball,$75.60 
+398,Noam Murro,$116.10 ,2,$58.00 ,300: Rise of An Empire,$106.60 
+399,Frederik Du Chau,$116.00 ,3,$38.70 ,Racing Stripes,$49.80 
+400,David S. Goyer,$115.70 ,3,$38.60 ,Blade: Trinity,$52.40 
+401,David Koepp,$114.10 ,6,$19.00 ,Secret Window,$48.00 
+402,Craig Gillespie,$114.10 ,5,$22.80 ,Million Dollar Arm,$36.50 
+403,John Erick Dowdle,$113.90 ,4,$28.50 ,Devil,$33.60 
+404,Mark Neveldine,$113.80 ,4,$28.50 ,Ghost Rider 2,$51.80 
+405,Brian Taylor,$113.80 ,4,$28.50 ,Ghost Rider 2,$51.80 
+406,Scott Waugh,$113.60 ,2,$56.80 ,Act of Valor,$70.00 
+407,Scott Cooper,$113.40 ,3,$37.80 ,Black Mass,$62.60 
+408,William Brent Bell,$112.20 ,3,$37.40 ,The Devil Inside,$53.30 
+409,Burr Steers,$111.00 ,4,$27.80 ,17 Again,$64.20 
+410,Miguel Arteta,$111.00 ,6,$18.50 ,Alexander,$67.00 
+411,Andrew Niccol,$110.80 ,6,$18.50 ,In Time,$37.50 
+412,Will Finn,$109.40 ,3,$36.50 ,Road to El Dorado,$50.90 
+413,Denzel Washington,$109.00 ,3,$36.30 ,Fences,$57.70 
+414,Victor Salva,$108.40 ,4,$27.10 ,Jeepers Creepers,$37.90 
+415,Oren Peli,$107.90 ,2,$54.00 ,Paranormal Activity,$107.90 
+416,Dean Israelite,$107.70 ,2,$53.90 ,Power Rangers,$85.40 
+417,Frank Miller,$107.70 ,3,$35.90 ,Sin City,$74.10 
+418,Evan Goldberg,$107.60 ,2,$53.80 ,This is the End,$101.50 
+419,Seth Rogen,$107.60 ,2,$53.80 ,This is the End,$101.50 
+420,Duncan Jones,$107.10 ,3,$35.70 ,Source Code,$54.70 
+421,Andrew Fleming,$106.60 ,7,$15.20 ,Nancy Drew,$25.60 
+422,James Ivory,$103.80 ,14,$7.40 ,Howards End,$26.10 
+423,Peter Hedges,$102.00 ,3,$34.00 ,The Odd Life of Timothy Green,$51.90 
+424,Niki Caro,$101.00 ,4,$25.30 ,"McFarland, USA",$44.50 
+425,Michael Cimino,$101.00 ,7,$14.40 ,The Deer Hunter,$49.00 
+426,Alejandro Amenabar,$99.70 ,5,$19.90 ,The Others,$96.50 
+427,Steven Quale,$99.20 ,3,$33.10 ,Into The Storm,$47.60 
+428,David Lynch,$98.10 ,9,$10.90 ,Dune,$30.90 
+429,Beeban Kidron,$96.10 ,5,$19.20 ,Bridget Jones 2,$40.20 
+430,Patrick Lussier,$95.30 ,3,$31.80 ,My Bloody Valentine 3-D,$51.50 
+431,Jon Hurwitz,$95.10 ,2,$47.60 ,American Reunion,$57.00 
+432,Hayden Schlossberg,$95.10 ,2,$47.60 ,American Reunion,$57.00 
+433,Bille Woodruff,$93.70 ,4,$23.40 ,Beauty Shop,$36.40 
+434,Eli Roth,$93.30 ,5,$18.70 ,Hostel,$47.30 
+435,Brad Furman,$92.80 ,3,$30.90 ,The Lincoln Lawyer,$58.00 
+436,Tom Vaughan,$92.60 ,3,$30.90 ,What Happens in Vegas,$80.30 
+437,John Luessenhop,$92.50 ,3,$30.80 ,Takers,$57.70 
+438,Jean-Pierre Jeunet,$92.50 ,7,$13.20 ,Alien Resurrection,$47.80 
+439,Alex Kurtzman,$92.20 ,2,$46.10 ,The Mummy (2017),$79.80 
+440,Nimród Antal,$91.00 ,5,$18.20 ,Predators,$52.00 
+441,Etan Cohen,$90.40 ,1,$90.40 ,Get Hard,$90.40 
+442,Klay Hall,$90.30 ,1,$90.30 ,Planes,$90.30 
+443,Callie Khouri,$90.30 ,2,$45.10 ,Ya-Ya Sisterhood,$69.60 
+444,Julie Anne Robinson,$89.40 ,2,$44.70 ,The Last Song,$63.00 
+445,Tod Williams,$88.70 ,3,$29.60 ,Paranormal Activity 2,$84.80 
+446,Ryan Murphy,$87.60 ,2,$43.80 ,Eat Pray Love,$80.60 
+447,Scott Charles Stewart,$86.70 ,3,$28.90 ,Legion,$40.20 
+448,David Wain,$85.80 ,4,$21.50 ,Role Models,$67.30 
+449,Pete Travis,$85.70 ,3,$28.60 ,Vantage Point,$72.30 
+450,Trey Parker,$85.40 ,3,$28.50 ,"South Park - Bigger, Longer and Uncut",$52.00 
+451,Mike Judge,$85.20 ,4,$21.30 ,Beavis and Butt-Head Do America,$63.10 
+452,Jodie Foster,$84.50 ,4,$21.10 ,Money Monster,$41.00 
+453,Thomas Bezucha,$83.80 ,3,$27.90 ,The Family Stone,$60.10 
+454,Mira Nair,$83.60 ,10,$8.40 ,Vanity Fair,$16.10 
+455,Sofia Coppola,$83.50 ,6,$13.90 ,Lost in Translation,$44.60 
+456,Paul Haggis,$83.50 ,4,$20.90 ,Crash,$54.60 
+457,Ernest R. Dickerson,$83.50 ,6,$13.90 ,Bulletproof,$21.60 
+458,Craig Brewer,$83.40 ,3,$27.80 ,Footloose,$51.80 
+459,Mike Binder,$83.30 ,6,$13.90 ,Black or White,$21.60 
+460,John Stockwell,$83.20 ,5,$16.60 ,Blue Crush,$40.40 
+461,Kevin Macdonald,$81.80 ,9,$9.10 ,State of Play,$37.00 
+462,Charles Stone III,$81.30 ,4,$20.30 ,Drumline,$56.40 
+463,Gina Prince-Bythewood,$79.80 ,3,$26.60 ,The Secret Life of Bees,$37.80 
+464,Richard Loncraine,$78.40 ,6,$13.10 ,Firewall,$48.80 
+465,Jean-Marc Vallee,$78.20 ,4,$19.50 ,Wild (2014),$37.90 
+466,Paul King,$76.30 ,1,$76.30 ,Paddington,$76.30 
+467,Chris Rock,$76.00 ,3,$25.30 ,Head of State,$38.10 
+468,Zach Braff,$75.40 ,3,$25.10 ,Going in Style (2017),$45.00 
+469,Rick Famuyiwa,$72.70 ,3,$24.20 ,Brown Sugar,$27.40 
+470,Frederik Du Chou,$72.30 ,2,$36.10 ,Racing Stripes,$49.80 
+471,Rian Johnson,$72.10 ,3,$24.00 ,Looper,$66.50 
+472,Andres Muschietti,$71.60 ,1,$71.60 ,Mama,$71.60 
+473,Steven Zaillian,$71.20 ,3,$23.70 ,A Civil Action,$56.70 
+474,Tom McCarthy,$70.40 ,4,$17.60 ,Spotlight,$45.10 
+475,Mike McCoy,$70.00 ,1,$70.00 ,Act of Valor,$70.00 
+476,Nima Nourizadeh,$69.20 ,2,$34.60 ,Project X,$54.70 
+477,Michael Tiddes,$69.10 ,3,$23.00 ,A Haunted House,$40.00 
+478,John Dahl,$68.90 ,8,$8.60 ,Rounders,$22.90 
+479,Stephen Gaghan,$68.80 ,3,$22.90 ,Syriana,$50.80 
+480,Tom Tykwer,$68.20 ,8,$8.50 ,Cloud Atlas,$27.10 
+481,Terrence Malick,$67.50 ,8,$8.40 ,Thin Red Line,$36.40 
+482,Gregory Jacobs,$66.90 ,2,$33.50 ,Magic Mike XXL,$66.00 
+483,David Leitch,$65.70 ,2,$32.80 ,John Wick,$43.00 
+484,Pedro Almodovar,$64.70 ,15,$4.30 ,Volver,$12.90 
+485,Sean McNamara,$64.70 ,4,$16.20 ,Soul Surfer,$43.90 
+486,Jeremy Garelick,$64.50 ,1,$64.50 ,The Wedding Ringer,$64.50 
+487,Peter Lepeniotis,$64.30 ,1,$64.30 ,The Nut Job,$64.30 
+488,Mark Pellington,$64.20 ,6,$10.70 ,Mothman Prophecies,$35.70 
+489,Jeff Wadlow,$63.70 ,3,$21.20 ,Kick-Ass 2,$28.80 
+490,Greg Strause,$63.20 ,2,$31.60 ,Aliens Vs. Predator - Requiem,$41.80 
+491,Mike Flanagan,$62.80 ,2,$31.40 ,Ouija 2,$35.10 
+492,Roberto Benigni,$62.50 ,5,$12.50 ,Life Is Beautiful,$57.60 
+493,George Nolfi,$62.50 ,1,$62.50 ,The Adjustment Bureau,$62.50 
+494,Jonathan Dayton,$62.40 ,2,$31.20 ,Little Miss Sunshine,$59.90 
+495,Valerie Faris,$62.40 ,2,$31.20 ,Little Miss Sunshine,$59.90 
+496,Mars Marlind,$62.30 ,1,$62.30 ,Underworld Awakening,$62.30 
+497,Bjorn Stein,$62.30 ,1,$62.30 ,Underworld Awakening,$62.30 
+498,Salim Akil,$61.70 ,2,$30.80 ,Jumping the Broom,$37.30 
+499,Tom Hanks,$61.50 ,2,$30.70 ,Larry Crowne,$35.60 
+500,Albert Brooks,$61.40 ,7,$8.80 ,Mother (1996),$19.10 
+501,Dinesh D'Souza,$61.00 ,3,$20.30 ,2016 Obama's America,$33.40 
+502,Steve McQueen (II),$60.70 ,3,$20.20 ,12 Years a Slave,$56.70 
+503,John Hillcoat,$60.10 ,4,$15.00 ,Lawless,$37.40 
+504,Gregory Nava,$60.00 ,4,$15.00 ,Selena,$35.30 
+505,David Mamet,$60.00 ,10,$6.00 ,Heist,$23.50 
+506,Paul Schrader,$59.90 ,14,$4.30 ,American Gigolo,$22.70 
+507,Christopher Spencer,$59.70 ,1,$59.70 ,Son of God,$59.70 
+508,Brad Anderson,$59.60 ,7,$8.50 ,The Call,$51.90 
+509,John Herzfeld,$59.20 ,3,$19.70 ,15 Minutes,$24.40 
+510,Jose Padilha,$59.00 ,5,$11.80 ,RoboCop,$58.60 
+511,Akiva Schaffer,$58.90 ,3,$19.60 ,The Watch,$35.40 
+512,Jonathan M. Goldstein,$58.90 ,1,$58.90 ,Vacation,$58.90 
+513,Christophe Gans,$58.20 ,2,$29.10 ,Silent Hill,$47.00 
+514,Gillian Armstrong,$57.90 ,6,$9.70 ,Little Women (1994),$50.10 
+515,Geoffrey Sax,$57.80 ,3,$19.30 ,White Noise,$56.40 
+516,Kimberly Peirce,$57.70 ,3,$19.20 ,Carrie,$35.30 
+517,Cal Brunker,$57.00 ,1,$57.00 ,Escape From Planet Earth,$57.00 
+518,Kenneth Lonergan,$56.90 ,3,$19.00 ,Manchester by the Sea,$47.70 
+519,Jane Campion,$56.80 ,7,$8.10 ,The Piano,$40.20 
+520,Gary Shore,$56.30 ,1,$56.30 ,Dracula Untold,$56.30 
+521,John Wells,$55.80 ,3,$18.60 ,August: Osage County,$37.70 
+522,Tommy Wirkola,$55.80 ,2,$27.90 ,Hansel and Gretel,$55.70 
+523,Billy Ray,$55.60 ,3,$18.50 ,Breach,$33.20 
+524,Kevin Munroe,$55.30 ,2,$27.70 ,TMNT,$54.10 
+525,Greg Berlanti,$55.10 ,2,$27.60 ,Life as We Know It,$53.40 
+526,Fred Wolf,$54.80 ,2,$27.40 ,The House Bunny,$48.20 
+527,James Watkins,$54.40 ,3,$18.10 ,The Woman in Black,$54.30 
+528,R.J. Cutler,$54.30 ,2,$27.10 ,If I Stay,$50.50 
+529,Anton Corbijn,$53.70 ,3,$17.90 ,The American,$35.60 
+530,Sam Miller,$52.50 ,1,$52.50 ,No Good Deed,$52.50 
+531,Julie Taymor,$52.50 ,4,$13.10 ,Frida,$25.90 
+532,Ava DuVernay,$52.40 ,3,$17.50 ,Selma,$52.10 
+533,Leigh Whannell,$52.20 ,1,$52.20 ,Insidious Chapter 3,$52.20 
+534,Tom Brady,$51.00 ,3,$17.00 ,The Hot Chick,$35.10 
+535,David Seltzer,$50.90 ,3,$17.00 ,Shining Through,$21.60 
+536,Stiles White,$50.90 ,1,$50.90 ,Ouija,$50.90 
+537,Graham Annable,$50.80 ,1,$50.80 ,The Boxtrolls,$50.80 
+538,Anthony Stacchi,$50.80 ,1,$50.80 ,The Boxtrolls,$50.80 
+539,Ole Bornedal,$50.60 ,4,$12.60 ,The Possession,$49.10 
+540,Jorge R. Gutierrez,$50.20 ,1,$50.20 ,The Book of Life,$50.20 
+541,Rod Lurie,$49.80 ,5,$10.00 ,Last Castle,$18.20 
+542,Bruce A. Evans,$49.70 ,2,$24.80 ,Mr. Brooks,$28.50 
+543,Travis Knight,$48.00 ,1,$48.00 ,Kubo and the Two Strings,$48.00 
+544,John Sullivan,$47.90 ,2,$23.90 ,2016 Obama's America,$33.40 
+545,John Crowley,$47.10 ,5,$9.40 ,Brooklyn,$38.30 
+546,Tim Robbins,$46.70 ,3,$15.60 ,Dead Man Walking,$39.40 
+547,Sarah Smith,$46.50 ,1,$46.50 ,Arthur Christmas,$46.50 
+548,Christopher Guest,$45.70 ,5,$9.10 ,Best in Show,$18.70 
+549,Michel Hazanavicius,$45.10 ,3,$15.00 ,The Artist,$44.70 
+550,Dan Bradley,$44.80 ,1,$44.80 ,Red Dawn (2012),$44.80 
+551,Elizabeth Allen (II),$44.80 ,2,$22.40 ,Ramona and Beezus,$26.20 
+552,James Gray,$44.30 ,6,$7.40 ,We Own the Night,$28.60 
+553,Don Roos,$44.00 ,4,$11.00 ,Bounce,$36.80 
+554,Diane Keaton,$44.00 ,2,$22.00 ,Hanging Up,$36.10 
+555,Karyn Kusama,$43.90 ,4,$11.00 ,Aeon Flux,$25.90 
+556,Shana Feste,$43.80 ,3,$14.60 ,Endless Love,$23.40 
+557,Derek Cianfrance,$43.70 ,3,$14.60 ,The Place Beyond the Pines,$21.40 
+558,Chris Kentis,$43.40 ,2,$21.70 ,Open Water,$30.60 
+559,Ric Roman Waugh,$42.90 ,1,$42.90 ,Snitch,$42.90 
+560,Davis Guggenheim,$42.90 ,6,$7.20 ,An Inconvenient Truth,$24.10 
+561,Michael Dougherty,$42.70 ,1,$42.70 ,Krampus,$42.70 
+562,Drew Goddard,$42.10 ,1,$42.10 ,The Cabin in the Woods,$42.10 
+563,Courtney Solomon,$42.00 ,3,$14.00 ,An American Haunting,$16.30 
+564,Morgan Spurlock,$41.50 ,6,$6.90 ,One Direction: This is Us,$28.90 
+565,Todd Field,$41.40 ,2,$20.70 ,In the Bedroom,$35.90 
+566,Ken Scott,$41.20 ,3,$13.70 ,Delivery Man,$30.70 
+567,Mike Leigh,$41.20 ,11,$3.70 ,Secrets & Lies,$13.40 
+568,Daniel Stamm,$41.00 ,1,$41.00 ,The Last Exorcism,$41.00 
+569,George Gallo,$41.00 ,6,$6.80 ,Double Take,$29.80 
+570,Chris Stokes,$40.50 ,2,$20.30 ,You Got Served,$40.40 
+571,Nicole Holofcener,$40.50 ,5,$8.10 ,Enough Said,$17.60 
+572,Adam Wingard,$39.60 ,3,$13.20 ,Blair Witch,$20.80 
+573,Steven Antin,$39.40 ,1,$39.40 ,Burlesque,$39.40 
+574,Patrick Hughes,$39.30 ,2,$19.70 ,The Expendables 3,$39.30 
+575,Oliver Parker,$38.80 ,5,$7.80 ,Ideal Husband,$18.50 
+576,Michael Radford,$38.50 ,7,$5.50 ,Il Postino,$21.80 
+577,Carl Rinsch,$38.40 ,1,$38.40 ,47 Ronin,$38.40 
+578,Todd Graff,$37.80 ,3,$12.60 ,Joyful Noise,$30.90 
+579,Hayao Miyazaki,$37.40 ,5,$7.50 ,Ponyo,$15.10 
+580,Nicolas Winding Refn,$37.30 ,5,$7.50 ,Drive (2011),$35.10 
+581,Christian E. Christiansen,$37.30 ,1,$37.30 ,The Roommate,$37.30 
+582,Steven Lisberger,$37.20 ,3,$12.40 ,Tron,$33.00 
+583,Camille Delamarre,$36.40 ,2,$18.20 ,Brick Mansions,$20.40 
+584,Neil Nightingale,$36.10 ,1,$36.10 ,Walking with Dinosaurs,$36.10 
+585,Robert Lorenz,$35.80 ,1,$35.80 ,Trouble with the Curve,$35.80 
+586,Justin Chadwick,$35.50 ,3,$11.80 ,The Other Boleyn Girl,$26.80 
+587,Jake Schreier,$35.30 ,2,$17.70 ,Paper Towns,$32.00 
+588,Peter Landesman,$35.20 ,2,$17.60 ,Concussion (2015),$34.50 
+589,Daniel Barnz,$35.10 ,3,$11.70 ,Beastly,$27.90 
+590,Scott Speer,$35.10 ,1,$35.10 ,Step Up Revolution,$35.10 
+591,Todd Strauss-Schulson,$35.10 ,1,$35.10 ,Harold & Kumar 3D,$35.10 
+592,Jeff Nichols,$34.80 ,5,$7.00 ,Mud,$21.60 
+593,Douglas McGrath,$34.80 ,5,$7.00 ,Emma,$22.20 
+594,Mark Romanek,$34.00 ,2,$17.00 ,One Hour Photo,$31.60 
+595,Ari Sandel,$34.00 ,1,$34.00 ,The DUFF,$34.00 
+596,Drew Dowdle,$33.60 ,1,$33.60 ,Devil,$33.60 
+597,Allen Coulter,$33.50 ,2,$16.70 ,Remember Me,$19.10 
+598,Gene Wilder,$33.30 ,2,$16.70 ,The Woman in Red,$25.30 
+599,Jason Winer,$33.00 ,1,$33.00 ,Arthur (2011),$33.00 
+600,Jim Jarmusch,$32.60 ,12,$2.70 ,Broken Flowers,$13.70 
+601,Joshua Michael Stern,$32.40 ,2,$16.20 ,Swing Vote,$16.30 
+602,Adam Brooks,$32.40 ,3,$10.80 ,"Definitely, Maybe",$32.20 
+603,Dan Gilroy,$32.40 ,1,$32.40 ,Nightcrawler,$32.40 
+604,Susanna White,$32.20 ,2,$16.10 ,Nanny McPhee Returns,$29.00 
+605,Jim Field Smith,$32.00 ,1,$32.00 ,She's Out of My League,$32.00 
+606,Mark Tonderai,$31.60 ,1,$31.60 ,House at the End of The Street,$31.60 
+607,Joe Nussbaum,$31.50 ,3,$10.50 ,Sydney White,$11.90 
+608,Philip Kaufman,$31.20 ,2,$15.60 ,The Right Stuff,$21.20 
+609,Scott Frank,$30.90 ,2,$15.50 ,A Walk Among the Tombstones,$26.30 
+610,James Ponsoldt,$30.80 ,5,$6.20 ,The Circle,$20.50 
+611,Stephan Elliot,$30.40 ,4,$7.60 ,Eye of the Beholder,$16.50 
+612,Lone Scherfig,$30.30 ,5,$6.10 ,One Day,$13.80 
+613,Andrew Erwin,$30.20 ,3,$10.10 ,Woodlawn,$14.40 
+614,Jon Erwin,$30.20 ,3,$10.10 ,Woodlawn,$14.40 
+615,J.A. Bayona,$29.90 ,3,$10.00 ,The Impossible,$19.00 
+616,Juan Carlos Fresnadillo,$29.00 ,3,$9.70 ,28 Weeks Later,$28.60 
+617,Noah Baumbach,$28.90 ,9,$3.20 ,While We're Young,$7.60 
+618,Ed Harris,$28.80 ,2,$14.40 ,Appaloosa,$20.20 
+619,Greg Coolidge,$28.40 ,1,$28.40 ,Employee of the Month,$28.40 
+620,David Gelb,$28.40 ,2,$14.20 ,The Lazarus Effect,$25.80 
+621,Whit Stillman,$28.30 ,6,$4.70 ,Love & Friendship,$14.00 
+622,Jesse Peretz,$28.20 ,4,$7.00 ,Our Idiot Brother,$24.80 
+623,Peter Medak,$27.20 ,6,$4.50 ,Species II,$19.20 
+624,Jessica Bendinger,$26.90 ,1,$26.90 ,Stick It,$26.90 
+625,Leon Ichaso,$26.50 ,4,$6.60 ,Sugar Hill,$18.20 
+626,Lisa Cholodenko,$26.40 ,3,$8.80 ,The Kids Are All Right,$20.80 
+627,Tomas Alfredson,$26.30 ,2,$13.10 ,"Tinker, Tailor, Soldier, Spy",$24.10 
+628,Tom Gormican,$26.10 ,1,$26.10 ,That Awkward Moment,$26.10 
+629,Craig Mazin,$25.90 ,2,$12.90 ,Superhero Movie,$25.90 
+630,Alex Garland,$25.40 ,1,$25.40 ,Ex Machina,$25.40 
+631,Gary McKendry,$25.10 ,1,$25.10 ,Killer Elite,$25.10 
+632,Andrew J. Cohen,$25.00 ,1,$25.00 ,The House,$25.00 
+633,Erik White,$24.70 ,1,$24.70 ,Lottery Ticket,$24.70 
+634,Joseph Gordon-Levitt,$24.50 ,1,$24.50 ,Don Jon,$24.50 
+635,John Gray,$24.10 ,3,$8.00 ,Glimmer Man,$20.40 
+636,Troy Nixey,$24.00 ,1,$24.00 ,Don't Be Afraid of the Dark,$24.00 
+637,Christian Alvart,$23.60 ,2,$11.80 ,Case 39,$13.30 
+638,Alister Grierson,$23.20 ,1,$23.20 ,Sanctum,$23.20 
+639,Ice Cube,$23.00 ,1,$23.00 ,Players Club,$23.00 
+640,Wally Pfister,$23.00 ,1,$23.00 ,Transcendence,$23.00 
+641,Uwe Boll,$22.60 ,4,$5.70 ,House of the Dead,$10.20 
+642,Don Scardino,$22.50 ,1,$22.50 ,Burt Wonderstone,$22.50 
+643,Mark Brown,$22.40 ,2,$11.20 ,Two Can Play That Game,$22.20 
+644,Justin Zackham,$21.80 ,1,$21.80 ,The Big Wedding,$21.80 
+645,Chris Gorak,$21.50 ,2,$10.80 ,The Darkest Hour,$21.40 
+646,Richard Glatzer,$21.30 ,4,$5.30 ,Still Alice,$18.80 
+647,Wash Westmoreland,$21.30 ,4,$5.30 ,Still Alice,$18.80 
+648,Robert Duvall,$20.90 ,2,$10.40 ,The Apostle,$19.90 
+649,Nick Hurran,$20.80 ,3,$6.90 ,Little Black Book,$20.70 
+650,James D. Stern,$20.40 ,4,$5.10 ,Michael Jordan (IMAX),$18.70 
+651,Nanette Burstein,$20.20 ,4,$5.10 ,Going the Distance,$17.80 
+652,Tom Ford,$19.80 ,2,$9.90 ,Nocturnal Animals,$10.70 
+653,Kurt Wimmer,$19.70 ,2,$9.90 ,Ultraviolet,$18.50 
+654,Michael Winterbottom,$19.70 ,19,$1.00 ,A Mighty Heart,$9.20 
+655,Sean Penn,$19.20 ,2,$9.60 ,Into the Wild,$18.40 
+656,Andrew Dominik,$19.20 ,3,$6.40 ,Killing Them Softly,$15.00 
+657,Stuart Beattie,$19.10 ,2,$9.50 ,"I, Frankenstein",$19.10 
+658,Michael Goldenberg,$19.00 ,1,$19.00 ,Bed of Roses,$19.00 
+659,Ross Katz,$18.70 ,1,$18.70 ,The Choice,$18.70 
+660,Asger Leth,$18.70 ,2,$9.30 ,Man on a Ledge,$18.60 
+661,Ricky Gervais,$18.50 ,1,$18.50 ,The Invention of Lying,$18.50 
+662,Dustin Hoffman,$18.40 ,1,$18.40 ,Quartet,$18.40 
+663,Jorma Taccone,$18.20 ,2,$9.10 ,Popstar,$9.60 
+664,Werner Herzog,$17.90 ,10,$1.80 ,Rescue Dawn,$5.50 
+665,Rob Hardy,$17.80 ,3,$5.90 ,The Gospel,$15.80 
+666,Jeff Schaffer,$17.80 ,1,$17.80 ,Eurotrip,$17.80 
+667,Stephen Chbosky,$17.70 ,1,$17.70 ,The Perks of Being a Wallflower,$17.70 
+668,Michael J. Bassett,$17.50 ,1,$17.50 ,Silent Hill 2,$17.50 
+669,Vincenzo Natali,$17.50 ,2,$8.80 ,Splice,$17.00 
+670,J.C. Chandor,$17.40 ,3,$5.80 ,All Is Lost,$6.30 
+671,Pablo Larrain,$17.30 ,4,$4.30 ,Jackie,$14.00 
+672,Wayne Kramer,$15.60 ,4,$3.90 ,The Cooler,$8.30 
+673,Susannah Grant,$15.50 ,1,$15.50 ,Catch and Release,$15.50 
+674,Ed Gass-Donnelly,$15.20 ,2,$7.60 ,The Last Exorcism Part II,$15.20 
+675,Michael Haneke,$15.10 ,7,$2.20 ,Amour,$6.70 
+676,Trish Sie,$14.90 ,1,$14.90 ,Step Up All In,$14.90 
+677,Stanley Tucci,$14.70 ,4,$3.70 ,Big Night,$12.00 
+678,Alejandro Monteverde,$14.60 ,2,$7.30 ,Bella,$8.10 
+679,Marcus Dunstan,$14.60 ,2,$7.30 ,The Collector,$7.70 
+680,Vic Armstrong,$14.00 ,1,$14.00 ,Left Behind,$14.00 
+681,Mark Mylod,$14.00 ,1,$14.00 ,What's Your Number?,$14.00 
+682,Cary Fukunaga,$13.90 ,3,$4.60 ,Jane Eyre,$11.20 
+683,David Palmer,$13.70 ,1,$13.70 ,Hit and Run,$13.70 
+684,Julian Schnabel,$13.70 ,5,$2.70 ,The Diving Bell and the Butterfly,$6.00 
+685,Wong Kar Wai,$13.10 ,10,$1.30 ,The Grandmaster,$6.60 
+686,Drew Barrymore,$13.00 ,1,$13.00 ,Whip It,$13.00 
+687,Jee-woon Kim,$12.90 ,5,$2.60 ,The Last Stand,$12.10 
+688,Benh Zeitlin,$12.80 ,1,$12.80 ,Beasts of the Southern Wild,$12.80 
+689,Mike Mills,$12.80 ,3,$4.30 ,Beginners,$5.80 
+690,Laura Lau,$12.80 ,1,$12.80 ,Silent House,$12.80 
+691,Akiva Goldsman,$12.60 ,1,$12.60 ,Winter's Tale,$12.60 
+692,John Curran,$12.50 ,5,$2.50 ,The Painted Veil,$8.10 
+693,Adam Rifkin,$12.20 ,5,$2.40 ,The Chase,$7.90 
+694,Jay Duplass,$12.10 ,5,$2.40 ,Cyrus,$7.50 
+695,Mark Duplass,$11.90 ,4,$3.00 ,Cyrus,$7.50 
+696,Brian Koppelman,$11.70 ,1,$11.70 ,Knockaround Guys,$11.70 
+697,David Levien,$11.70 ,1,$11.70 ,Knockaround Guys,$11.70 
+698,Heitor Dhalia,$11.70 ,1,$11.70 ,Gone,$11.70 
+699,Brian Klugman,$11.50 ,1,$11.50 ,The Words,$11.50 
+700,Lee Sternthal,$11.50 ,1,$11.50 ,The Words,$11.50 
+701,Denise Di Novi,$11.40 ,1,$11.40 ,Unforgettable,$11.40 
+702,Lorene Scafaria,$11.30 ,2,$5.70 ,Seeking a Friend for the End of the World,$7.10 
+703,Michael Roskam,$10.90 ,2,$5.40 ,The Drop,$10.70 
+704,Michael Dowse,$10.50 ,3,$3.50 ,Take Me Home Tonight,$6.90 
+705,Ryan Fleck,$10.30 ,4,$2.60 ,It's Kind of a Funny Story,$6.40 
+706,Errol Morris,$10.10 ,8,$1.30 ,The Fog of War,$4.20 
+707,Todd Solondz,$9.80 ,8,$1.20 ,Welcome to the Dollhouse,$4.60 
+708,Josh Schwartz,$9.40 ,1,$9.40 ,Fun Size,$9.40 
+709,Sylvain Chomet,$9.20 ,2,$4.60 ,The Triplets of Belleville,$7.00 
+710,Benson Lee,$9.20 ,2,$4.60 ,Battle of the Year,$8.90 
+711,John Michael McDonagh,$9.00 ,2,$4.50 ,The Guard,$5.40 
+712,Taika Waititi,$8.90 ,3,$3.00 ,Hunt for the Wilderpeople,$5.20 
+713,John Pogue,$8.50 ,1,$8.50 ,The Quiet Ones,$8.50 
+714,Dan St. Pierre,$8.50 ,1,$8.50 ,Legends of Oz: Dorothy's Return,$8.50 
+715,Jason Bateman,$8.00 ,2,$4.00 ,Bad Words,$7.80 
+716,Nicholas Jarecki,$7.90 ,1,$7.90 ,Arbitrage,$7.90 
+717,Anna Boden,$7.60 ,3,$2.50 ,It's Kind of a Funny Story,$6.40 
+718,Tommy Lee Jones,$7.50 ,2,$3.70 ,The Three Burials of Melquiades Estrada,$5.00 
+719,Sarah Polley,$7.40 ,3,$2.50 ,Away from Her,$4.60 
+720,John Cameron Mitchell,$7.30 ,3,$2.40 ,Hedwig and the Angry Inch,$3.10 
+721,Charlie Kaufman,$6.80 ,2,$3.40 ,Anomalisa,$3.80 
+722,Atom Egoyan,$6.80 ,5,$1.40 ,Chloe,$3.10 
+723,Gareth Evans,$6.70 ,2,$3.40 ,The Raid: Redemption,$4.10 
+724,Sacha Gervasi,$6.70 ,2,$3.30 ,Hitchcock,$6.00 
+725,Debra Granik,$6.60 ,2,$3.30 ,Winter's Bone,$6.50 
+726,David Schwimmer,$6.10 ,2,$3.10 ,Run Fat Boy Run,$6.00 
+727,Marc Abraham,$6.10 ,2,$3.00 ,Flash of Genius,$4.40 
+728,Craig Johnson,$5.90 ,2,$3.00 ,The Skeleton Twins,$5.30 
+729,Gilbert Adler,$5.80 ,1,$5.80 ,Bordello of Blood,$5.80 
+730,Charles Ferguson,$5.80 ,3,$1.90 ,Inside Job,$4.30 
+731,Pieter Jan Brugge,$5.80 ,1,$5.80 ,The Clearing,$5.80 
+732,George Hickenlooper,$5.70 ,5,$1.10 ,Factory Girl,$1.70 
+733,Dean Wright,$5.70 ,1,$5.70 ,For Greater Glory,$5.70 
+734,Sngmoo Lee,$5.70 ,1,$5.70 ,The Warrior's Way,$5.70 
+735,Dan Fogelman,$5.60 ,1,$5.60 ,Danny Collins,$5.60 
+736,Diego Luna,$5.60 ,1,$5.60 ,Cesar Chavez,$5.60 
+737,Jacques Audiard,$5.40 ,4,$1.40 ,A Prophet (Un prophète),$2.10 
+738,Richard Wenk,$5.40 ,2,$2.70 ,Vamp,$4.90 
+739,Jez Butterworth,$5.10 ,1,$5.10 ,Birthday Girl,$5.10 
+740,Julie Delpy,$5.10 ,3,$1.70 ,2 Days in Paris,$4.40 
+741,Todd Lincoln,$4.90 ,1,$4.90 ,The Apparition,$4.90 
+742,Philippe Falardeau,$4.70 ,2,$2.40 ,The Good Lie,$2.70 
+743,Miranda July,$4.50 ,2,$2.20 ,Me and You and Everyone We Know,$3.90 
+744,Russell Crowe,$4.20 ,1,$4.20 ,The Water Diviner,$4.20 
+745,Helen Hunt,$3.70 ,1,$3.70 ,Then She Found Me,$3.70 
+746,Christopher B. Landon,$3.70 ,1,$3.70 ,Scouts Guide to the Zombie Apocalypse,$3.70 
+747,Andrew Jarecki,$3.70 ,2,$1.90 ,Capturing the Friedmans,$3.10 
+748,Michael Cuesta,$3.70 ,4,$923k,Kill the Messenger,$2.50 
+749,Xavier Dolan,$3.60 ,2,$1.80 ,Mommy,$3.50 
+750,Jeremy Saulnier,$3.50 ,2,$1.70 ,Green Room,$3.20 
+751,Rowan Joffe,$3.50 ,2,$1.70 ,Before I Go To Sleep,$3.20 
+752,Kelly Reichardt,$3.50 ,6,$575k,Certain Women,$1.10 
+753,Christopher Hampton,$3.40 ,3,$1.10 ,Carrington,$3.20 
+754,Gillian Robespierre,$3.30 ,2,$1.70 ,Obvious Child,$3.10 
+755,Lynn Shelton,$3.20 ,5,$631k,Your Sister's Sister,$1.60 
+756,Damian Szifron,$3.10 ,1,$3.10 ,Wild Tales,$3.10 
+757,Lake Bell,$3.00 ,1,$3.00 ,In a World,$3.00 
+758,Clark Gregg,$2.90 ,1,$2.90 ,Choke,$2.90 
+759,Keith Gordon,$2.80 ,5,$568k,A Midnight Clear,$1.50 
+760,Dustin Marcellino,$2.80 ,1,$2.80 ,The Identical,$2.80 
+761,Robert B. Weide,$2.80 ,1,$2.80 ,How to Lose Friends and Alienate People,$2.80 
+762,Gregory Levasseur,$2.80 ,1,$2.80 ,The Pyramid,$2.80 
+763,Vincent Gallo,$2.70 ,2,$1.40 ,Buffalo '66,$2.40 
+764,Zal Batmanglij,$2.70 ,2,$1.40 ,The East,$2.30 
+765,Dan Ireland,$2.60 ,4,$660k,Mrs. Palfrey at the Claremont,$1.70 
+766,Don Cheadle,$2.60 ,1,$2.60 ,Miles Ahead,$2.60 
+767,James Vanderbilt,$2.50 ,1,$2.50 ,Truth,$2.50 
+768,Claire Denis,$2.30 ,2,$1.20 ,Chocolat (1989),$2.30 
+769,Eran Creevy,$2.30 ,2,$1.10 ,Collide,$2.30 
+770,David Hare,$2.30 ,3,$760k,Wetherby,$1.30 
+771,Oren Moverman,$2.20 ,3,$750k,The Messenger,$1.10 
+772,Lynne Ramsay,$2.20 ,3,$741k,We Need to Talk About Kevin,$1.70 
+773,David Michod,$2.20 ,2,$1.10 ,The Rover,$1.10 
+774,Tom DiCillo,$2.20 ,5,$431k,Living in Oblivion,$1.10 
+775,Joseph Cedar,$2.10 ,3,$715k,Footnote,$2.00 
+776,Gregg Araki,$2.00 ,7,$292k,Mysterious Skin,$713k
+777,Jonas Cuaron,$2.00 ,1,$2.00 ,Desierto,$2.00 
+778,Ralph Fiennes,$2.00 ,2,$996k,The Invisible Woman,$1.20 
+779,Adam Del Deo,$1.80 ,3,$590k,Every Little Step,$1.70 
+780,Mike White,$1.50 ,1,$1.50 ,Year of the Dog,$1.50 
+781,Steven Knight,$1.40 ,2,$706k,Locke,$1.40 
+782,Gaspar Noe,$1.40 ,3,$459k,Irreversible,$792k
+783,Mike Cahill,$1.30 ,1,$1.30 ,Another Earth,$1.30 
+784,Leslye Headland,$1.30 ,2,$634k,Sleeping with Other People,$819k
+785,Chris Terrio,$1.20 ,1,$1.20 ,Heights,$1.20 
+786,Bob Yari,$1.10 ,1,$1.10 ,Papa: Hemingway in Cuba,$1.10 
+787,Rodrigo Cortes,$1.10 ,2,$548k,Buried,$1.00 
+788,Jim Wilson,$1.10 ,2,$548k,50 to 1,$1.10 
+789,John Krasinski,$1.10 ,2,$525k,The Hollars,$1.00 
+790,Michael Mayer,$1.00 ,1,$1.00 ,A Home at the End of the World,$1.00 
+791,Joe Cornish,$1.00 ,1,$1.00 ,Attack the Block,$1.00 
+792,Prabhu Dheva,$919k,1,$919k,Singh is Bling,$919k
+793,Paul Newman,$896k,1,$896k,The Glass Menagerie,$896k
+794,Vera Farmiga,$842k,1,$842k,Higher Ground,$842k
+795,Kirby Dick,$831k,5,$166k,This Film Is Not Yet Rated,$307k
+796,William Nicholson,$785k,1,$785k,Firelight,$785k
+797,Ethan Hawke,$775k,2,$387k,Seymour: An Introduction,$744k
+798,Azazel Jacobs,$756k,2,$378k,Terri,$656k
+799,Jacob Aaron Estes,$668k,2,$334k,Mean Creek,$604k
+800,Sebastián Silva,$656k,2,$328k,The Maid,$577k
+801,David Chase,$611k,1,$611k,Not Fade Away,$611k
+802,Madonna,$606k,2,$303k,W.E.,$583k
+803,Ned Benson,$588k,1,$588k,The Disappearance of Eleanor Rigby,$588k
+804,Shane Salerno,$584k,1,$584k,Salinger,$584k
+805,James Keach,$581k,4,$145k,Glen Campbell... I'll Be Me,$365k
+806,Natalie Portman,$572k,1,$572k,A Tale of Love and Darkness,$572k
+807,Alan Rickman,$558k,1,$558k,A Little Chaos,$558k
+808,Ewan McGregor,$544k,1,$544k,American Pastoral,$544k
+809,Josh Radnor,$543k,2,$272k,Liberal Arts,$327k
+810,Philip Seymour Hoffman,$542k,1,$542k,Jack Goes Boating,$542k
+811,Joe Swanberg,$521k,5,$104k,Drinking Buddies,$343k
+812,Hossein Amini,$507k,1,$507k,The Two Faces of January,$507k
+813,Bobcat Goldthwait,$475k,4,$119k,World's Greatest Dad,$222k
+814,Roman Coppola,$460k,2,$230k,CQ,$414k
+815,Casey Affleck,$409k,1,$409k,I'm Still Here,$409k
+816,Steve Conrad,$409k,1,$409k,The Promotion,$409k
+817,Alex Ross Perry,$402k,4,$100k,Listen Up Philip,$200k
+818,David Duchovny,$389k,1,$389k,House of D,$389k
+819,Spencer Susser,$383k,1,$383k,Hesher,$383k
+820,Ti West,$348k,6,$58.1k,The House of the Devil,$101k
+821,Michael Keaton,$348k,1,$348k,The Merry Gentleman,$348k
+822,John Ridley,$346k,2,$173k,Jimi: All Is By My Side,$341k
+823,Josh Sternfeld,$319k,1,$319k,Winter Solstice,$319k
+824,Demetri Martin,$255k,1,$255k,Dean,$255k
+825,Jeremy Brock,$240k,1,$240k,Driving Lessons,$240k
+826,Robert D. Siegel,$235k,1,$235k,Big Fan,$235k
+827,Guillermo Arriaga,$233k,2,$116k,The Burning Plain,$201k
+828,Dan Harris,$229k,1,$229k,Imaginary Heroes,$229k
+829,Mike Myers,$213k,1,$213k,Supermensch: The Legend of Shep Gordon,$213k
+830,Ed Solomon,$210k,1,$210k,Levity,$210k
+831,Jamie Linden,$203k,1,$203k,10 Years,$203k
+832,Jordan Roberts,$194k,1,$194k,Around the Bend,$194k
+833,Edward Burns,$188k,4,$47.1k,The Groomsmen,$129k
+834,John Slattery,$170k,1,$170k,God's Pocket,$170k
+835,Zak Penn,$153k,2,$76.7k,The Grand,$116k
+836,Malcolm Venville,$142k,2,$70.8k,Henry's Crime,$103k
+837,Jackie Chan,$136k,1,$136k,1911,$136k
+838,Luke Wilson,$127k,1,$127k,The Wendell Baker Story,$127k
+839,Kiefer Sutherland,$109k,1,$109k,"Truth or Consequences, N.M.",$109k
+840,James Franco,$105k,4,$26.4k,Interior. Leather Bar.,$42.5k
+841,Keanu Reeves,$100k,1,$100k,Man of Tai Chi,$100k
+842,Kevin Bacon,$97.4k,2,$48.7k,Losing Chase,$64.2k
+843,Tim Allen,$88.3k,1,$88.3k,Crazy on the Outside,$88.3k
+844,Don Hahn,$80.7k,1,$80.7k,Waking Sleeping Beauty,$80.7k
+845,Anthony Hopkins,$78.0k,2,$39.0k,August (1996),$69.1k
+846,John August,$63.2k,1,$63.2k,The Nines,$63.2k
+847,Melisa Wallack,$62.6k,1,$62.6k,Meet Bill,$62.6k
+848,William H. Macy,$58.3k,1,$58.3k,Rudderless,$58.3k
+849,Peter Tolan,$57.3k,1,$57.3k,Finding Amanda,$57.3k
+850,Goro Miyazaki,$48.5k,1,$48.5k,Tales from Earthsea,$48.5k
+851,Ryan Gosling,$45.4k,1,$45.4k,Lost River,$45.4k
+852,Melanie Laurent,$42.3k,1,$42.3k,Breathe,$42.3k
+853,Matthew Lillard,$41.5k,1,$41.5k,Fat Kid Rules the World,$41.5k
+854,Chris Evans,$37.2k,1,$37.2k,Before We Go,$37.2k
+855,Nicolas Cage,$30.0k,1,$30.0k,Sonny,$30.0k
+856,William Monahan,$24.3k,2,$12.2k,London Boulevard,$16.1k
+857,Geoffrey Fletcher,$17.2k,1,$17.2k,Violet & Daisy,$17.2k
+858,Lonzo Nzekwe,$15.8k,1,$15.8k,Anchor Baby,$15.8k
+859,Billy Bob Thornton,$14.8k,1,$14.8k,Jayne Mansfield's Car,$14.8k
+860,Stewart Wade,$13.9k,2,$6.9k,Tru Loved,$9.5k
+861,Mark Ruffalo,$13.8k,1,$13.8k,Sympathy for Delicious,$13.8k
+862,Michele Mulroney,$13.5k,1,$13.5k,Paper Man,$13.5k
+863,Kieran Mulroney,$13.5k,1,$13.5k,Paper Man,$13.5k
+864,Dustin Lance Black,$12.7k,1,$12.7k,Virginia,$12.7k
+865,Ryan Piers Williams,$11.8k,1,$11.8k,The Dry Land,$11.8k
+866,Ernie Barbarash,$11.8k,1,$11.8k,Falcon Rising,$11.8k
+867,Nia Vardalos,$11.0k,1,$11.0k,I Hate Valentine's Day,$11.0k
+868,Courteney Cox,$11.0k,1,$11.0k,Just Before I Go,$11.0k
+869,Thomas Lennon & Ben Garant,$8.8k,1,$8.8k,Hell Baby,$8.8k
+870,Greta Gerwig,$5.4k,1,$5.4k,Nights and Weekends,$5.4k
+871,Famke Janssen,$5.0k,1,$5.0k,Bringing Up Bobby,$5.0k
